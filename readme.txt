@@ -1,7 +1,7 @@
 CSCI 2270 Spring 2021 Final Project - MiniGit 
 Programmed by: Adam Vitti, Gabriel Vitti, Tanner Leise
 
-Link to GitHub: https://github.com/advi4972/Csci2270_MiniGit
+Link to GitHub: https://github.com/advi4972/Csci2270_MiniGit (private repo)
 
 Overview:
 Our "MiniGit" project is a small scale, git version control software that works on your local machine. It supports 
